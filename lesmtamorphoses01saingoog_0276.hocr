@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lesmtamorphoses01saingoog_0276.png"; bbox 0 0 1027 1525; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 344 312 884 1112">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 344 312 884 1112">
+     <span class='ocr_line' id='line_1_1' title="bbox 344 312 884 1112; baseline 0.061 -33"><span class='ocrx_word' id='word_1_1' title='bbox 344 312 884 1112; x_wconf 95' lang='lat' dir='ltr'>  </span> <span class='ocrx_word' id='word_1_2' title='bbox 875 1079 884 1112; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 769 1102 848 1114">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 769 1102 867 1114">
+     <span class='ocr_line' id='line_1_2' title="bbox 769 1102 848 1114; baseline -0.01 -3"><span class='ocrx_word' id='word_1_3' title='bbox 769 1102 848 1114; x_wconf 52' lang='lat' dir='ltr'>oft-«w</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 353 1124 904 1161">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 353 1124 904 1161">
+     <span class='ocr_line' id='line_1_3' title="bbox 353 1124 904 1161; baseline 0 -10"><span class='ocrx_word' id='word_1_4' title='bbox 353 1127 439 1158; x_wconf 51' lang='lat' dir='ltr'>Orphde</span> <span class='ocrx_word' id='word_1_5' title='bbox 444 1130 500 1161; x_wconf 75' lang='lat' dir='ltr'>joue</span> <span class='ocrx_word' id='word_1_6' title='bbox 510 1132 564 1153; x_wconf 59' lang='lat' dir='ltr'><strong>dela</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 570 1133 617 1160; x_wconf 77' lang='lat' dir='ltr'>lyre</span> <span class='ocrx_word' id='word_1_8' title='bbox 622 1132 659 1153; x_wconf 75' lang='lat' dir='ltr'>sur</span> <span class='ocrx_word' id='word_1_9' title='bbox 665 1133 688 1153; x_wconf 76' lang='lat' dir='ltr'>le</span> <span class='ocrx_word' id='word_1_10' title='bbox 694 1137 753 1153; x_wconf 71' lang='lat' dir='ltr'><strong>mon(</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 764 1130 875 1161; x_wconf 69' lang='lat' dir='ltr'>Rhodope,</span> <span class='ocrx_word' id='word_1_12' title='bbox 903 1124 904 1127; x_wconf 18' lang='grc' dir='ltr'><strong>Ἴ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

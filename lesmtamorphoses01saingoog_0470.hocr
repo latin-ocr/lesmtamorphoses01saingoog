@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lesmtamorphoses01saingoog_0470.png"; bbox 0 0 1027 1525; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 120 292 848 1430">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 120 292 848 1430">
+     <span class='ocr_line' id='line_1_1' title="bbox 120 292 848 1430; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 120 292 848 1430; x_wconf 95' lang='lat' dir='ltr'>   </span> <span class='ocrx_word' id='word_1_2' title='bbox 724 1086 848 1146; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 428 1101 724 1131">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 428 1101 724 1131">
+     <span class='ocr_line' id='line_1_2' title="bbox 428 1101 724 1131; baseline 0 -9"><span class='ocrx_word' id='word_1_3' title='bbox 428 1101 532 1131; x_wconf 47' lang='lat' dir='ltr'>Hespzssrio</span> <span class='ocrx_word' id='word_1_4' title='bbox 543 1104 611 1130; x_wconf 67' lang='lat' dir='ltr'>suyimff</span> <span class='ocrx_word' id='word_1_5' title='bbox 629 1107 711 1130; x_wconf 57' lang='lat' dir='ltr'>linitque</span> <span class='ocrx_word' id='word_1_6' title='bbox 722 1119 724 1122; x_wconf 90' lang='lat'>.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

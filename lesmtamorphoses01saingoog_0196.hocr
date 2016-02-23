@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lesmtamorphoses01saingoog_0196.png"; bbox 0 0 1027 1525; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 129 98 895 112">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 129 98 895 112">
+     <span class='ocr_line' id='line_1_1' title="bbox 129 98 895 112; baseline 0 1413"><span class='ocrx_word' id='word_1_1' title='bbox 129 98 895 112; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 350 320 876 1109">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 350 320 876 1109">
+     <span class='ocr_line' id='line_1_2' title="bbox 350 320 876 1109; baseline 0 416"><span class='ocrx_word' id='word_1_2' title='bbox 350 320 876 1109; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 415 1123 804 1152">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 415 1123 804 1152">
+     <span class='ocr_line' id='line_1_3' title="bbox 415 1123 804 1152; baseline 0 -8"><span class='ocrx_word' id='word_1_3' title='bbox 415 1125 486 1152; x_wconf 75' lang='lat' dir='ltr'>Byblis</span> <span class='ocrx_word' id='word_1_4' title='bbox 492 1123 662 1150; x_wconf 67' lang='lat' dir='ltr'>Me‘mmurphose&#39;e</span> <span class='ocrx_word' id='word_1_5' title='bbox 672 1132 697 1144; x_wconf 76' lang='lat' dir='ltr'>en</span> <span class='ocrx_word' id='word_1_6' title='bbox 706 1124 804 1144; x_wconf 62' lang='lat' dir='ltr'>fontaine.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
